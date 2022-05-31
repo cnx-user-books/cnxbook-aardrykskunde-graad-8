@@ -1,0 +1,171 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Skaal en afstandsberekening</title>
+  <metadata>
+  <md:content-id>m31633</md:content-id><md:title>Skaal en afstandsberekening</md:title>
+  <md:abstract/>
+  <md:uuid>1d488487-291f-445d-a794-34a72d1beb47</md:uuid>
+</metadata>
+
+<content>
+    <section id="id21239362">
+      <title>Sosiale Wetenskappe</title>
+      <para id="para-id21239362">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id21724420">
+      <title>AARDRYKSKUNDE</title>
+      <para id="para-id21724420">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id20855344">
+      <title>Graad 8</title>
+      <para id="para-id20855344">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5336516">
+      <title>KAARTWERK</title>
+      <para id="para-id5336516">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5812978">
+      <title>Module 14</title>
+      <para id="para-id5812978">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5689483">
+      <title>SKAAL EN AFSTANDSBEREKENING</title>
+      <para id="id5325844"> Skaal en afstandsberekening</para>
+      <para id="id7000664">1.1 Skaal</para>
+      <para id="id14659580"><emphasis effect="bold">Skaal</emphasis> is die mate waarin ’n kaart kleiner is as die werklike aardoppervlakte. Julle het al vroeër geleer dat daar verskillende <emphasis effect="bold">soorte skale</emphasis> is:</para>
+      <para id="id20935140">a) Die <emphasis effect="bold">woordskaal</emphasis> druk die skaal in woorde uit, byvoorbeeld “Een sentimeter op die kaart verteenwoordig ’n halwe kilometer”.</para>
+      <para id="id8084869">b) Die <emphasis effect="bold">breukskaal</emphasis> word as ’n verhouding of ’n breuk geskryf, byvoorbeeld 1:50 000 of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mtext>50</m:mtext><m:mi/><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{"50"`"000"} } } } {}</m:annotation></m:semantics></m:math>.Dit beteken een eenheid (bv. cm) op die kaart verteenwoordig 50 000 van dieselfde eenhede (cm) op die aardoppervlakte.</para>
+      <para id="id5814162">c) Die <emphasis effect="bold">lynskaal</emphasis> is ’n lyn wat in sentimeter afgemerk is, wat die ooreenkomstige afstand op die grond in kilometer aandui.</para>
+      <para id="id6718103"><figure id="id11725293"><media id="id11725293_media" alt=""><image mime-type="image/png" src="../../media/Picture 2-0c64.png" id="id11725293__onlineimage" height="165" width="372"/></media></figure>Afstandaangedui as 3,5 km </para>
+      <para id="id14452018">1.2 Die meet van afstand op ’n kaart</para>
+      <para id="id5490750">Daar gaan deurgaans van die topografiese kaartreeks gebruik gemaak word waar die skaal 1:50 000 is.</para>
+      <para id="id20047420">Gaan soos volg te werk om werklike afstand te bepaal:</para>
+      <list id="id20047425" list-type="bulleted">
+        <item>Meet die afstand op die kaart akkuraat met ’n liniaal in sentimeter.</item>
+        <item>Herlei die afstand na <emphasis effect="bold">km</emphasis> of <emphasis effect="bold">m</emphasis> afhangend van wat gevra word.</item>
+      </list>
+      <para id="id14495989">Voorbeeld:</para>
+      <figure id="id22622108">
+        <media id="id22622108_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-cf53.png" id="id22622108__onlineimage" height="68" width="474"/>
+        </media>
+      </figure>
+      <list id="id5694328" list-type="bulleted">
+        <item>Die kaartafstand tussen A en B is 10 cm.</item>
+      </list>
+      <table id="id8989548" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <list id="id8304405" list-type="bulleted">
+                  <item>Wat is die werklike afstand in km?</item>
+                </list>
+              </entry>
+              <entry>
+                <list id="id21055079" list-type="bulleted">
+                  <item>Wat is die werklike afstand in m?</item>
+                </list>
+              </entry>
+            </row>
+            <row>
+              <entry>10 cm × 50 000500 000 cm ÷ 100 000= 5 km</entry>
+              <entry>10 cm × 50 000500 000 cm ÷ 100= 5 000 m</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id12933431">Hoekom word daar met 100 000 en 100 gedeel?</para>
+      <list id="id7158063" list-type="bulleted">
+        <item>Die metrieke eenheidsmate is soos volg:</item>
+      </list>
+      <figure id="id13143908">
+        <media id="id13143908_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-006b.png" id="id13143908__onlineimage" height="93" width="330"/>
+        </media>
+      </figure>
+      <para id="id9224477"/>
+      <list id="id9224480" list-type="bulleted">
+        <item>Daar is dus 100 000 cm in ’n km 100 cm in ’n meter</item>
+      </list>
+      <para id="id5290071">Jy kan dus ’n korter metode gebruik as jy onthou dat jou skaal van 1:50 000 dieselfde is as:</para>
+      <para id="id5761650">1 cm = 50 000 cm1 cm = 500 m (÷ 100)1 cm = 0,5 km (÷ 100 000)</para>
+      <para id="id11130588">Bereken dan die afstand soos volg:</para>
+      <para id="id22760774">10 cm × 0,5 10 cm × 500= 5 km = 500 m</para>
+      <list id="id7030475" list-type="bulleted">
+        <item>As ’n kronkelende pad byvoorbeeld gemeet moet word, moet die roete eers met ’n stukkie tou gemeet word. Meet die tou se lengte op die liniaal af en volg dan dieselfde metode as hierbo of meet dit af op die lynskaal.</item>
+      </list>
+      <figure id="id6863539">
+        <media id="id6863539_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-f66d.png" id="id6863539__onlineimage" height="262" width="578"/>
+        </media>
+      </figure>
+      <para id="id13571943">AKTIWITEIT 1</para>
+      <para id="id13572010">[LU 1.3]</para>
+      <para id="id13572015">1. Bereken die werklike afstand in meter as die afstand op ’n 1:50 000 topografiese kaart die volgende is:</para>
+      <para id="id13571919">a) 2,3 cm </para>
+      <para id="id17549058">b) 6,8 cm </para>
+      <para id="id5568651">c)  5,5 cm </para>
+      <para id="id6687357">2. Bereken die werklike afstand in kilometer as die afstand op ’n 1:50 000 topografiese kaart die volgende is:</para>
+      <para id="id11848564">a) 90,4 cm </para>
+      <para id="id15909092">b) 56,3 cm </para>
+      <para id="id12353874">c) 103,6 cm </para>
+    </section>
+    <section id="id7145784">
+      <title>Assessering</title>
+      <table id="id17745921" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>AssesseringLeeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1 </entry>
+            </row>
+            <row>
+              <entry>Aardrykskundige OndersoekDie leerder is in staat om ondersoekvaardighede te gebruik om aardrykskundige en omgewingsbegrippe en -prosesse te ondersoek. </entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Dit is duidelik wanneer die leerder:</entry>
+            </row>
+            <row>
+              <entry>1.1 ‘n verskeidenheid geografiese en omgewingsbronne identifiseer en selekteer wat relevant tot die navorsing is;1.2 inligting vanaf kaarte en atlasse, asook grafiese en statistiese bronne, interpreteer;1.3 afstandberekening doen op kaarte en dit vergelyk met werklike afstand;1.4 fisiese en mensgemaakte eienskappe op lugfoto’s en kaarte identifiseer.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7234961">
+      <title>Memorandum</title>
+      <para id="id5433750">AKTIWITEIT 1:</para>
+      <para id="id12883220">1(a) 1150 m</para>
+      <para id="id12883224">1( b) 3400 m</para>
+      <para id="id21713514">1(c) 2750 m</para>
+      <para id="id17674393">2(a) 45,2 km</para>
+      <para id="id12631648">2(b) 28,25 km</para>
+      <para id="id5946045">2(c) 51,8 km</para>
+    </section>
+  </content>
+</document>
