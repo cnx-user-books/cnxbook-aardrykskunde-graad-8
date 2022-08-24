@@ -1,3 +1,45 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11035</md:content-id>  <md:title>Aardrykskunde Graad 8</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>0201d011-83d8-41e6-851a-1bcde3882dff</md:uuid>
-<md:slug>aardrykskunde-graad-8</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m24613"/>                            <col:module document="m24614"/>                            <col:module document="m24615"/>                            <col:module document="m24616"/>                            <col:module document="m24617"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m24621"/>                            <col:module document="m24624"/>                            <col:module document="m24641"/>                            <col:module document="m24643"/>                            <col:module document="m24642"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m31607"/>                            <col:module document="m31626"/>                            <col:module document="m31632"/>                            <col:module document="m31633"/>                            <col:module document="m31933"/>                            <col:module document="m31662"/>                            <col:module document="m31930"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11035</md:content-id>
+    <md:title>Aardrykskunde Graad 8</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>0201d011-83d8-41e6-851a-1bcde3882dff</md:uuid>
+    <md:slug>aardrykskunde-graad-8</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m24613"/>
+        <col:module document="m24614"/>
+        <col:module document="m24615"/>
+        <col:module document="m24616"/>
+        <col:module document="m24617"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m24621"/>
+        <col:module document="m24624"/>
+        <col:module document="m24641"/>
+        <col:module document="m24643"/>
+        <col:module document="m24642"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m31607"/>
+        <col:module document="m31626"/>
+        <col:module document="m31632"/>
+        <col:module document="m31633"/>
+        <col:module document="m31933"/>
+        <col:module document="m31662"/>
+        <col:module document="m31930"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
